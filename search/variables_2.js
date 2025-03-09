@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['calibrationmodestatus_0',['calibrationModeStatus',['../vcu_8h.html#a6afec06c0d256cde38c251b132f1868c',1,'calibrationModeStatus:&#160;xcp_slave.c'],['../xcp__slave_8h.html#a6afec06c0d256cde38c251b132f1868c',1,'calibrationModeStatus:&#160;xcp_slave.c'],['../xcp__slave_8c.html#a6afec06c0d256cde38c251b132f1868c',1,'calibrationModeStatus:&#160;xcp_slave.c']]],
+  ['can_5fhandler1_1',['can_handler1',['../can__handler_8h.html#a2520b09e7efcacfa46c14b477703f254',1,'can_handler1:&#160;can_handler.c'],['../can__handler_8c.html#a2520b09e7efcacfa46c14b477703f254',1,'can_handler1:&#160;can_handler.c']]],
+  ['can_5fhandler2_2',['can_handler2',['../can__handler_8h.html#ae40a007b97f785d0024740d4a873be02',1,'can_handler2:&#160;can_handler.c'],['../can__handler_8c.html#ae40a007b97f785d0024740d4a873be02',1,'can_handler2:&#160;can_handler.c']]],
+  ['canrxmessages_3',['canRxMessages',['../can__msg__config_8h.html#aacd2183e0894de1199017897ffdd8e30',1,'canRxMessages:&#160;can_msg_config.c'],['../can__msg__config_8c.html#aacd2183e0894de1199017897ffdd8e30',1,'canRxMessages:&#160;can_msg_config.c']]],
+  ['cantxmessages_4',['canTxMessages',['../can__msg__config_8h.html#a8ffcfe27747d51735360777dc59d8357',1,'canTxMessages:&#160;can_msg_config.c'],['../can__msg__config_8c.html#a8ffcfe27747d51735360777dc59d8357',1,'canTxMessages:&#160;can_msg_config.c']]],
+  ['castvalue_5',['castValue',['../vcu_8c.html#a7ddad93591b08cc324d56c733c799ef0',1,'vcu.c']]],
+  ['castvalue2_6',['castValue2',['../vcu_8c.html#a9fee82f320d16e6fbc082df1388d5254',1,'vcu.c']]],
+  ['channel_7',['channel',['../structsensor_interface.html#a0c72dd5e18823aef187a34137983c9a6',1,'sensorInterface']]],
+  ['cmdpid_8',['cmdPID',['../xcp__slave_8h.html#a88358c7d4380a956873ac0d5b6e96ec6',1,'cmdPID:&#160;xcp_slave.c'],['../xcp__slave_8c.html#a88358c7d4380a956873ac0d5b6e96ec6',1,'cmdPID:&#160;xcp_slave.c']]],
+  ['correcttransferadress_9',['correctTransferAdress',['../xcp__slave_8c.html#ae6f9b9742df35ccb7136442fdf2fbebf',1,'xcp_slave.c']]],
+  ['currapps1percentage_10',['currApps1Percentage',['../vcu_8c.html#a1d474021e2d139e708bae92792543543',1,'vcu.c']]],
+  ['currbatteryvoltage_11',['currBatteryVoltage',['../vcu_8c.html#aba5d61fa91dd8a7929eddb7b5247ccdf',1,'vcu.c']]],
+  ['currentsensorread_12',['currentSensorRead',['../vcu_8c.html#ad3ca186b70a76e37d834ebd8b092456e',1,'vcu.c']]],
+  ['currmaxavailablecurrent_13',['currMaxAvailableCurrent',['../vcu_8c.html#a7f6a015bdc2ba94b2126a052b438c202',1,'vcu.c']]],
+  ['currmaxavailablepower_14',['currMaxAvailablePower',['../vcu_8c.html#aa9aa7ed49dd65aec0cd50cda97d13233',1,'vcu.c']]],
+  ['currmaxavailabletorque_15',['currMaxAvailableTorque',['../vcu_8c.html#a124530b35b13a01345ed8477458dd61c',1,'vcu.c']]],
+  ['currtorquedemand_16',['currTorqueDemand',['../vcu_8c.html#a87a688cfabfb4b4cfbd81e28279e5952',1,'vcu.c']]]
+];

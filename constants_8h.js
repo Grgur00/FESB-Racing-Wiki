@@ -1,0 +1,25 @@
+var constants_8h =
+[
+    [ "ERROR_STATUS", "constants_8h.html#af5d0a0130e8b0fc1fe309e6d8b308249", null ],
+    [ "FALSE", "constants_8h.html#aa93f0eb578d23995850d61f7d61c55c1", null ],
+    [ "MAX_ALLOWED_CELL_TEMP", "constants_8h.html#af1b132c969e663cf56c35b4ffb03ae44", null ],
+    [ "MAX_ANALOG_OUTPUT_VOLTAGE", "constants_8h.html#a4d2572dfd26b2bdbdbc4def6f590f8d4", null ],
+    [ "MAX_BATTERY_CURRENT", "constants_8h.html#ab8a63eae0123c728836fa28ac9fe9afa", null ],
+    [ "MAX_BATTERY_POWER", "constants_8h.html#af6aaba3fc4bb6adc6de689f7da4b0be4", null ],
+    [ "MAX_BATTERY_POWER_RULES", "constants_8h.html#a2cf4a4e3e20ddb762386eab052bc1486", null ],
+    [ "MAX_BATTERY_VOLTAGE", "constants_8h.html#a28e5d173943cd009722c9356b3fb8965", null ],
+    [ "MAX_CELL_OVERTEMPERATURE_INTERVAL", "constants_8h.html#a5d079254131709d2ee537d7d7d489125", null ],
+    [ "MAX_CELL_VOLTAGE_FAULT_INTERAL", "constants_8h.html#a0a20b798bc8013cd5ed82085351db6d3", null ],
+    [ "MAX_INVERTER_CURRENT", "constants_8h.html#acd4de4359943e9a71d8a5d993e08ae0a", null ],
+    [ "MAX_INVERTER_TEMP", "constants_8h.html#ad5f7469b884a2554b86ef62e16a3296b", null ],
+    [ "MAX_MOTOR_CURRENT", "constants_8h.html#a244a3e4fffb328e5afa1ec9948b6dc47", null ],
+    [ "MAX_MOTOR_RPM", "constants_8h.html#a9b648747de19f27040ba606aa4be3fa8", null ],
+    [ "MAX_MOTOR_TEMP", "constants_8h.html#af5b2902a9b0236c03546cdc5ce751b98", null ],
+    [ "MAX_MOTOR_TORQUE", "constants_8h.html#a703ffae3de851683ca15466c89338ed8", null ],
+    [ "MIN_BATTERY_VOLTAGE", "constants_8h.html#a849409e3e573bc5bf96c09835145e45a", null ],
+    [ "MOTOR_TORQUE_CONSTANT", "constants_8h.html#a5aa16ec073a481e051dd7ee3d42a007a", null ],
+    [ "MOTOR_VELOCITY_CONSTANT", "constants_8h.html#aa50b00c254cda892ac7e449e604ec5b2", null ],
+    [ "OK_STATUS", "constants_8h.html#a1a8b70f2787072be26b2aa39523f09d6", null ],
+    [ "PEDAL_ERROR_MAX_TOLERANCE", "constants_8h.html#a076989e765c58d7ddc73848e1364ad8b", null ],
+    [ "TRUE", "constants_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d", null ]
+];
